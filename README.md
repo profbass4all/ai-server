@@ -1,6 +1,6 @@
 **Public URL** = https://ai-server-gzdjazdkfnbhhphh.westeurope-01.azurewebsites.net/
 
-#Configuration Details
+#Configuration Details#
 
 *Operating System = Linux*
 *Running Stack = Node 22*
